@@ -1,0 +1,18 @@
+article > .p1{
+    color: blue;
+}
+article > .p2{
+    color: aqua;
+}
+article > main > .p1{
+    color: brown;
+}
+article nav{
+    color: blueviolet;
+}
+/* article > p + h2 + span{
+    color: red;
+}
+article > p ~ .d1{
+    background-color: aqua;
+} */
